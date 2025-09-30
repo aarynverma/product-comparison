@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/product-comparison/static/css/main.c785f922.css",
+    "main.js": "/product-comparison/static/js/main.574480d1.js",
+    "index.html": "/product-comparison/index.html",
+    "main.c785f922.css.map": "/product-comparison/static/css/main.c785f922.css.map",
+    "main.574480d1.js.map": "/product-comparison/static/js/main.574480d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c785f922.css",
+    "static/js/main.574480d1.js"
+  ]
+}
