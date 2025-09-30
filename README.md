@@ -2,7 +2,9 @@
 
 A simple and clean app that helps you compare products side by side. You can pick up to 3 products and see their differences in an easy-to-read table.
 
-![Product Comparison App Screenshot](https://via.placeholder.com/800x400/4F46E5/ffffff?text=Product+Comparison+App)
+![Product Comparison App Screenshot]
+<img width="1919" height="826" alt="image" src="https://github.com/user-attachments/assets/28825cb5-c807-4142-818c-01cfede49a91" />
+
 
 ## ✨ What This App Does
 
