@@ -14,7 +14,7 @@ A simple and clean app that helps you compare products side by side. You can pic
 - **See Differences**: The app highlights what's different between products
 - **Easy Removal**: Remove single products or clear your whole comparison
 
-### Extra Features (Bonus!)
+### Extra Features
 - **Search**: Type to find products by name, brand, or features
 - **Filter by Brand**: Show only Apple, Samsung, etc.
 - **Works on Mobile**: Looks great on phones, tablets, and computers
