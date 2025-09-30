@@ -1,6 +1,7 @@
 {
   "name": "product-list",
   "version": "0.1.0",
+  "homepage": "https://aarynverma.github.io/product-comparison",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
@@ -20,7 +21,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -45,6 +48,7 @@
     "@types/node": "^24.6.0",
     "@types/react": "^19.1.15",
     "@types/react-dom": "^19.1.9",
+    "gh-pages": "^6.3.0",
     "typescript": "^5.9.2"
   }
 }
