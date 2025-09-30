@@ -38,7 +38,7 @@ A simple and clean app that helps you compare products side by side. You can pic
 
 1. **Get the code**:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/aarynverma/product-comparison
 cd product-list
 ```
 
